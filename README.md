@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "imagem.jpg"/>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/paulo-vitor-lucena-mendes-99a649341?trk=people-guest_people_search-card" target="_blank">
