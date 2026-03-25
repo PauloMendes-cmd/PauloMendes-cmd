@@ -18,7 +18,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Paulo Vitor </b></em>, Sou Estudante de Ciência da Computação .
+  Hello There! <em><b> I'm Paulo Vitor </b></em>, a Computer Science student exploring the world of technology..
 </p>
 
 
