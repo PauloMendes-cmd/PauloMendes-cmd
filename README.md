@@ -50,7 +50,7 @@
 </h2>
 
 <p align="center">
-  <img src="assets/terminal-retro.png" width="80%" alt="Terminal retrô"/>
+  <img src="terminal-retro.png" width="80%" alt="Terminal retrô"/>
 </p>
 
 <h2 align="center">Projetos</h2>
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/PauloMendes-CMD">
     <img src="https://img.shields.io/badge/Ver%20meus%20reposit%C3%B3rios-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
